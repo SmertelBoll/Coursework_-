@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1621870926 source:c:\users\111\testing\kurs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdbool.h>
+	<math.h>
+

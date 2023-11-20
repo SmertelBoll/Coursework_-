@@ -1,0 +1,16 @@
+Operation: "Comparison of matrices"
+
+Matrix A:
+   1    2   -3 
+   4    5    6 
+   7   -8    9 
+
+Matrix B:
+   1    2   -3 
+   4    5    6 
+   7   -8    9 
+
+Result:
+Matrices are equal
+---------------------------------------------------
+
